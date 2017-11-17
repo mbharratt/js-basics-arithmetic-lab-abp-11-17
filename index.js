@@ -16,4 +16,4 @@ var randomNumber = Math.random() * 20;
 
 var randomInteger = Math.floor(randomNumber);
 
-var randomUserID = Number.isInteger(1000000001);
+var randomUserID = randomInteger (1000000001);
